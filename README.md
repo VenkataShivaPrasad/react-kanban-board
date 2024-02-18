@@ -1,4 +1,4 @@
-# React Kanban Board with Vite, Tailwind CSS, and DND Kit
+# React Kanban Board with Vite, Tailwind CSS, and DND Kit 🚀🔥
 Welcome to the React Kanban Board repository! This project is a simple implementation of a Kanban board using React, Vite, Tailwind CSS, and the DND Kit library. Organize your tasks seamlessly with drag-and-drop functionality within customizable columns.
 
 # Getting Started
@@ -31,9 +31,8 @@ Easily move tasks between columns with smooth drag-and-drop functionality.
 <h4>2. Column Management:</h4>
 Add, delete, and rename columns based on your workflow requirements.
 <h4>3. Task Management:</h4>
-   Create, update, and delete tasks with content customized to your needs.
-<h4>4. Responsive Design:</h4>
-   The user interface is designed to adapt to various screen sizes for a seamless experience.
+Create, update, and delete tasks with content customized to your needs.
+
 
 # Project Structure
 <img width="163" alt="image" src="https://github.com/VenkataShivaPrasad/react-kanban-board/assets/137329994/82211cea-0995-4059-be96-9eef580347e3">
