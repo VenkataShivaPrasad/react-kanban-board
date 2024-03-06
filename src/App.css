@@ -8,8 +8,11 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  background-color: #f1f5f9;
 
 }
+
+
 
 *{
   margin: 1px;
