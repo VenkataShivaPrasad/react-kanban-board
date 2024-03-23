@@ -267,7 +267,7 @@ const onDragEnd = (event:DragEndEvent) => {
     "
     >
       <DndContext sensors={sensors} onDragStart={onDragStart} onDragEnd={onDragEnd} onDragOver={onDragOver}>  
-      <div className="m-auto flex gap-4 w-full">
+      <div className="m-auto flex gap-4 w-[90%]">
       <div className="flex gap-4">
         <SortableContext items={columnsId}>
         {
